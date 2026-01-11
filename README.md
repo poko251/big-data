@@ -1,0 +1,1 @@
+This repository contains selected assignments from the Big Data course, covering practical implementations of data analysis and machine learning methods in Python, including PCA, linear and logistic regression, kNN, decision trees, k-means, Gaussian Mixture Models, model evaluation with confusion matrices, PyTorch-based models, and data visualization.
